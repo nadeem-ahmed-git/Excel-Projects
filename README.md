@@ -50,3 +50,14 @@ Tea(39%) is the highest-selling product followed by coffee(28%).
 Barista Espresso is the best-selling product type.
 
 #CoffeeShopSales #SalesInsights #DataAnalytics #DataVisualization #ExcelDashboard #DataAnalyst #DataDriven #SalesAnalysis
+
+## 2. HR Analytics Project (Internship)
+
+This project delved into analyzing employee data to gain insights into various aspects. I designed and managed a comprehensive database schema to efficiently store employee information. Utilizing SQL queries, I performed in-depth analyses such as retrieving and categorizing employees based on gender, calculating average performance ratings, identifying departments with the highest training costs, and examining employee status. This included tasks like updating records for employee status changes, inserting new employee data, and implementing data integrity measures like unique constraints to maintain data accuracy and reliability.
+
+Insights:
+•	Gender Distribution: The company has a total of 3000 employees, with a higher number of females (1682) compared to males (1318).
+•	Average Employee Rating: The overall performance rating is 59.38, which falls into the ‘Ok’ category, indicating room for improvement.
+•	Training Costs: The Software Engineering department incurs the highest training costs, suggesting a focus on skill development in this area.
+•	Employee Status: A significant number of employees are actively employed, while some are on a leave of absence or are future starts.
+
