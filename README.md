@@ -54,6 +54,8 @@ Barista Espresso is the best-selling product type.
 
 ## 2. HR Analytics Project (Internship)
 
+![img](https://github.com/nadeem-ahmed-git/Excel-Projects/blob/main/Employee%20Data%20Analysis/HR%20analytics%20dashboard.png)
+
 This project delved into analyzing employee data to gain insights into various aspects. I designed and managed a comprehensive database schema to efficiently store employee information. Utilizing SQL queries, I performed in-depth analyses such as retrieving and categorizing employees based on gender, calculating average performance ratings, identifying departments with the highest training costs, and examining employee status. This included tasks like updating records for employee status changes, inserting new employee data, and implementing data integrity measures like unique constraints to maintain data accuracy and reliability.
 
 Insights:
