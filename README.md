@@ -1,6 +1,7 @@
 # Excel-Projects
 
 ## 1. Coffee Shop Sales Analysis Project:
+![img](https://github.com/nadeem-ahmed-git/Excel-Projects/blob/main/Coffee%20Shop%20Sales/Coffee%20Shop%20Sales.png)
 Here's a glimpse into the project:
 
 📈 Key Metrics on Sales and Footfall:
